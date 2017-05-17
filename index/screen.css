@@ -232,10 +232,10 @@ footer {
     transition: all 0.2s ease 0s;
 }
 #htc, #contacts {
-    background: #383732 url("/img/bg2.png") no-repeat scroll 150% 50%;
+    background: #383732 url("img/bg2.png") no-repeat scroll 150% 50%;
 }
 #about, #games {
-    background: #fff url("/img/bg2.png") no-repeat scroll 150% 50%;
+    background: #fff url("img/bg2.png") no-repeat scroll 150% 50%;
 }
 #htc, #contacts, #about, #games {
     transition: all 0.2s ease 0s;
